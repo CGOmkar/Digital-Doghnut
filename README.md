@@ -2,5 +2,16 @@
 
 Open Blender 
 
-In python Text Editor write this code your 3d doghnut is ready!
+Open Text editor in Blender 
+
+
+Create New text 
+
+And Write this code 
+
+
+Your Virtual Doghnut is Ready'
+
+
+Thank me Later!
 
